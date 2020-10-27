@@ -41,14 +41,54 @@ En svær zip fil.
 ## Oppgave
 
 Mål:
+
 > modellere, designe og realisere en database i PostgreSQL
 
+> må minimum inneholde 3 relasjoner (les: tabeller)
+
 Tema:
+
 > bestemmer selv hva databasen skal representere og hvilke relasjoner den skal inneholde
 
-F.eks.
-"en database som omhandler skolen ellerno",
-"så der er det student, emne, eksamen, rom og eksamensresultat tror jeg som er tables"
+> en database som omhandler skolen ellerno,
+> så der er det student, emne, eksamen, rom og eksamensresultat tror jeg som er tables
 
-Størrelse:
-> må minimum inneholde 3 relasjoner (les: tabeller)
+
+### Datamodell
+
+ER-diagram?
+
+
+### Realisert Database
+
+?
+
+
+### Datainnhold
+
+?
+
+
+### Spørringer og Spørre-optimalisering
+
+?
+
+
+### Grupper og Administrasjon
+
+?
+
+
+### Lagrede Rutiner og Triggere
+
+?
+
+
+### Transaksjoner
+
+?
+
+
+### Backup og Recovery
+
+?
