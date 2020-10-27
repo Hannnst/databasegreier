@@ -36,3 +36,19 @@ En svær zip fil.
     * Definerer triggere m/ funksjoner
     * Tester lagrede rutiner og triggere
     * Eksempel-transaksjoner m/ COMMIT og ROLLBACK
+
+
+## Oppgave
+
+Mål:
+> modellere, designe og realisere en database i PostgreSQL
+
+Tema:
+> bestemmer selv hva databasen skal representere og hvilke relasjoner den skal inneholde
+
+F.eks.
+"en database som omhandler skolen ellerno",
+"så der er det student, emne, eksamen, rom og eksamensresultat tror jeg som er tables"
+
+Størrelse:
+> må minimum inneholde 3 relasjoner (les: tabeller)
