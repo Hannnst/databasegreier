@@ -16,7 +16,8 @@ Also:
 > gjelder kravene til kildehenvisning.
 
 Gruppeinnlevering:
-"Arbeidskravet er en gruppeoppgave og det innebærer at gruppen skal løse oppgaven sammen, utenhjelp fra personer utenfor gruppen."
+> Arbeidskravet er en gruppeoppgave og det innebærer at gruppen skal løse oppgaven sammen,
+> uten hjelp fra personer utenfor gruppen."
 
 
 ## Deliverables
@@ -24,14 +25,14 @@ Gruppeinnlevering:
 En svær zip fil.
 
 1. Ikke-script docu
-  * Navn, presentasjon, ansvar, etc
-  * "Datamodell" for databasen? (e.g. fra DBeaver)
-  * "SQL-spørringer" og "eksekveringsplaner"?
+    * Navn, presentasjon, ansvar, etc
+    * "Datamodell" for databasen? (e.g. fra DBeaver)
+    * "SQL-spørringer" og "eksekveringsplaner"?
 2. SQL-scripts som:
-  * Bygger databasen
-  * Fyller databasen med testdata
-  * Definerer roller, brukere, rettigheter
-  * Definerer lagrede rutiner
-  * Definerer triggere m/ funksjoner
-  * Tester lagrede rutiner og triggere
-  * Eksempel-transaksjoner m/ COMMIT og ROLLBACK
+    * Bygger databasen
+    * Fyller databasen med testdata
+    * Definerer roller, brukere, rettigheter
+    * Definerer lagrede rutiner
+    * Definerer triggere m/ funksjoner
+    * Tester lagrede rutiner og triggere
+    * Eksempel-transaksjoner m/ COMMIT og ROLLBACK
