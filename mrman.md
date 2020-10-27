@@ -1,32 +1,25 @@
 # Oppgave-beskrivelse
 
 
-## Praktisk Info
+## Generisk Info
 
-
-### Leveringsfrist
-
+Leveringsfrist:
 Straks.
 
-
-### Regler for fusk
-
+Regler for fusk:
 Det finnes regler.
 
 Also:
-
 > Alle trykte og skrevne hjelpemidler er tillatt,
 > men bruk av ferdige løsninger og/eller nettsider regnes som fusk.
 > Det bruk av ressurser utviklet av andre (faglitteratur, internettsider etc.)
 > gjelder kravene til kildehenvisning.
 
-
-### Gruppeinnlevering
-
+Gruppeinnlevering:
 "Arbeidskravet er en gruppeoppgave og det innebærer at gruppen skal løse oppgaven sammen, utenhjelp fra personer utenfor gruppen."
 
 
-### Leverings-deliverables
+## Deliverables
 
 En svær zip fil.
 
